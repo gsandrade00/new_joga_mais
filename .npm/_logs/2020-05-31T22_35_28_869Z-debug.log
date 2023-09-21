@@ -1,0 +1,15 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
+2 info using npm@6.14.4
+3 info using node@v12.17.0
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle jogamais-api@0.0.0~prestart: jogamais-api@0.0.0
+6 info lifecycle jogamais-api@0.0.0~start: jogamais-api@0.0.0
+7 verbose lifecycle jogamais-api@0.0.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle jogamais-api@0.0.0~start: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/ubuntu/jogamais-api/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle jogamais-api@0.0.0~start: CWD: /home/ubuntu/jogamais-api
+10 silly lifecycle jogamais-api@0.0.0~start: Args: [ '-c', 'node ./bin/www' ]
+11 timing npm Completed in 613673ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
